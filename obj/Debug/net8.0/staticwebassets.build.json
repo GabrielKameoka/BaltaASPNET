@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "usG18SO5inZW/GOSSAQz7R/X7d7N4xgrgZVU+ycXX/g=",
+  "Source": "BaltaASPNET",
+  "BasePath": "_content/BaltaASPNET",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BaltaASPNET\\wwwroot",
+      "Source": "BaltaASPNET",
+      "ContentRoot": "C:\\dev\\BaltaASPNET\\wwwroot\\",
+      "BasePath": "_content/BaltaASPNET",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\dev\\BaltaASPNET\\wwwroot\\css\\style.css",
+      "SourceId": "BaltaASPNET",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\BaltaASPNET\\wwwroot\\",
+      "BasePath": "_content/BaltaASPNET",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\dev\\BaltaASPNET\\wwwroot\\img\\eu.jpg",
+      "SourceId": "BaltaASPNET",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\BaltaASPNET\\wwwroot\\",
+      "BasePath": "_content/BaltaASPNET",
+      "RelativePath": "img/eu.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\eu.jpg"
+    }
+  ]
+}

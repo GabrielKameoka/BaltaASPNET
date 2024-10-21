@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\dev\\BaltaASPNET\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\dev\\BaltaASPNET\\wwwroot\\img\\eu.jpg",
+      "PackagePath": "staticwebassets\\img\\eu.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BaltaASPNET.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BaltaASPNET.props",
+      "PackagePath": "build\\BaltaASPNET.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BaltaASPNET.props",
+      "PackagePath": "buildMultiTargeting\\BaltaASPNET.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BaltaASPNET.props",
+      "PackagePath": "buildTransitive\\BaltaASPNET.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
